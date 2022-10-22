@@ -1,7 +1,7 @@
  ## 👋 Hi, I’m @GiovannaBrilhante
 
 <em> 👀 Welcome to my Github profile </em>
-- 🌱 I’m currently learning ...I'm currently studying the 4th semester of Systems Development Technician at Technical High School of Campinas. 
+- 🌱 I'm currently studying the 4th semester of Systems Development Technician at Technical High School of Campinas. 
 
 <div align="center">
   <a href="https://github.com/GiovannaBrilhante">
