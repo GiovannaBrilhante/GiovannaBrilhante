@@ -1,6 +1,6 @@
-👋 Hi, I’m @GiovannaBrilhante
+ ## 👋 Hi, I’m @GiovannaBrilhante
 
-👀 Welcome to my Github profile
+<em> 👀 Welcome to my Github profile </em>
 - 🌱 I’m currently learning ...I'm currently studying the 4th semester of Systems Development Technician at Technical High School of Campinas. 
 
 <div align="center">
@@ -21,11 +21,12 @@
   <img align="center" alt="Giovanna-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
+
 ##
 📫 How to reach me ... 
 <div> 
   <a href="https://instagram.com/gi_maria_cb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="22" target="_blank"></a>
   <a href = "mailto:bricamagi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="22"  target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovanna-brilhante" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="22" target="_blank"></a>
-  <a href = "https://www.youtube.com/watch?v=AETTBy1tTYk&t=1s" target="_blank"><img src="https://user-images.githubusercontent.com/105610313/197361276-57152854-e0e4-4543-a75e-c0de0259de76.png" height="22 target="_blank"/></a>
+  <a href = "https://www.youtube.com/watch?v=AETTBy1tTYk&t=1s" target="_blank"><img src="https://user-images.githubusercontent.com/105610313/197361486-80b162b2-df77-4b7d-b9a5-e50b371946ff.png" height="22 target="_blank"/></a>
 </div> 
