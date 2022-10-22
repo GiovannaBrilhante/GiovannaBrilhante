@@ -22,7 +22,7 @@
 </div>
 
 ##
-📫 How to reach me ...
+📫 How to reach me ... 
 <div> 
   <a href="https://instagram.com/gi_maria_cb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="22" target="_blank"></a>
   <a href = "mailto:bricamagi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="22"  target="_blank"></a>
