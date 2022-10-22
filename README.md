@@ -27,5 +27,5 @@
   <a href="https://instagram.com/gi_maria_cb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="22" target="_blank"></a>
   <a href = "mailto:bricamagi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="22"  target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovanna-brilhante" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" height="22" target="_blank"></a>
-  <a href = "https://www.youtube.com/watch?v=AETTBy1tTYk&t=1s" target="_blank"><img src="https://user-images.githubusercontent.com/105610313/197361638-52c34995-0e3f-4934-ba10-b487d1ae0b98.png" height="22 target="_blank"/></a>
+  <a href = "https://www.youtube.com/watch?v=AETTBy1tTYk&t=1s" target="_blank"><img src="https://user-images.githubusercontent.com/105610313/197361672-e5719ec7-1192-4660-bcd9-0aa729ec3f7a.png" height="22 target="_blank"/></a>
 </div> 
