@@ -1,7 +1,13 @@
- ## 👋 Hi, I’m @GiovannaBrilhante
+<h3 align="center">
+👋 Hi, I’m <a href="https://www.linkedin.com/in/giovanna-brilhante" target="_blank" rel="noreferrer">@GiovannaBrilhante</a> ✨
+</h3>
 
-<em> 👀 Welcome to my Github profile </em>
+<h2 align="center">
+👀 Welcome to my Github profile
+</h2> 
+<h4 align="center"> 
 - 🌱 I'm currently studying the 4th semester of Systems Development Technician at Technical High School of Campinas. 
+</h4>
 
 <div align="center">
   <a href="https://github.com/GiovannaBrilhante">
